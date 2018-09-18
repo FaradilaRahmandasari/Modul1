@@ -12,6 +12,6 @@
 system.out.print dengan system.out.println
 ![alt text](https://github.com/FaradilaRahmandasari/Modul1/blob/master/Penjelasan%20Latihan%204.PNG)
 # Output Latihan 5 Program Pernyataan If
-![alt text](
+![alt text](https://github.com/FaradilaRahmandasari/Modul1/blob/master/Latihan%205%20Program%20Pernyataan%20If.PNG)
 # Output Latihan 6 Program Pernyataan If Else
 ![alt text](
