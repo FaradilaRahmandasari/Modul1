@@ -12,7 +12,5 @@ public class Hellotelkom1 {
         System.out.println("Hello");
         System.out.println("Selamat Belajar di program Java");
     }
-    
-    
 }
 
