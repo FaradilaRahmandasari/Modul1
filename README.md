@@ -24,7 +24,6 @@
 # Output Latihan 10 Program Variabel Counter
 ![alt text](https://github.com/FaradilaRahmandasari/Modul1/blob/master/Latihan%2010%20Program%20Variabel%20Counter.PNG)
 # Penjelasan program di latihan 10
-![alt text](
-
+![alt text](https://github.com/FaradilaRahmandasari/Modul1/blob/master/Penjelasan%20Latihan%2010.PNG)
 # Output Latihan 11 Program Pernyataan While
 ![alt text](https://github.com/FaradilaRahmandasari/Modul1/blob/master/Latihan%2011%20Program%20Pernyataan%20While.PNG)
