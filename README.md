@@ -6,3 +6,8 @@
 ![alt text](https://github.com/FaradilaRahmandasari/Modul1/blob/master/Latihan%203%20Program%20Aritmatika.PNG)
 # Output Latihan 3 Luas Balok
 ![alt text](https://github.com/FaradilaRahmandasari/Modul1/blob/master/Latihan%203%20Luas%20Balok.PNG)
+# Output Latihan 4 Inputan Keyboard
+![alt text](https://github.com/FaradilaRahmandasari/Modul1/blob/master/Latihan%204%20Inputan%20Keyboard.PNG)
+# Penjelasan Perbedaan antara :
+system.out.print dengan system.out.println
+![alt text](
