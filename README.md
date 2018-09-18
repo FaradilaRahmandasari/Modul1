@@ -3,6 +3,6 @@
 # Output Latihan 2 Penggunaan Variabel
 ![alt text](https://github.com/FaradilaRahmandasari/Modul1/blob/master/Latihan%202%20Penggunaan%20Variabel.PNG)
 # Output Latihan 3 Program Aritmatika (Perhitungan) Sederhana
-![alt text](https://github.com/FaradilaRahmandasari/Modul1/blob/master/Latihan%203%20Luas%20Balok.PNG)
+![alt text](https://github.com/FaradilaRahmandasari/Modul1/blob/master/Latihan%203%20Program%20Aritmatika.PNG)
 # Output Latihan 3 Luas Balok
 ![alt text](https://github.com/FaradilaRahmandasari/Modul1/blob/master/Latihan%203%20Luas%20Balok.PNG)
