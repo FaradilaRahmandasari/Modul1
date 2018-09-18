@@ -16,7 +16,7 @@ system.out.print dengan system.out.println
 # Output Latihan 6 Program Pernyataan If Else
 ![alt text](https://github.com/FaradilaRahmandasari/Modul1/blob/master/Latihan%206%20Program%20Pernyataan%20If%20Else.PNG)
 # Output Latihan 7 Program Switch Case
-![alt text]
+![alt text](https://github.com/FaradilaRahmandasari/Modul1/blob/master/Latihan%207%20Program%20Switch%20Case.PNG)
 # Output Latihan 8 Program Kondisi Ganda
 ![alt text]
 # Output Latihan 9 Program Pernyataan For
