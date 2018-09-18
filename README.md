@@ -9,7 +9,7 @@
 # Output Latihan 4 Inputan Keyboard
 ![alt text](https://github.com/FaradilaRahmandasari/Modul1/blob/master/Latihan%204%20Inputan%20Keyboard.PNG)
 # Penjelasan Perbedaan antara :
-system.out.print dengan system.out.println
+# system.out.print dengan system.out.println
 ![alt text](https://github.com/FaradilaRahmandasari/Modul1/blob/master/Penjelasan%20Latihan%204.PNG)
 # Output Latihan 5 Program Pernyataan If
 ![alt text](https://github.com/FaradilaRahmandasari/Modul1/blob/master/Latihan%205%20Program%20Pernyataan%20If.PNG)
