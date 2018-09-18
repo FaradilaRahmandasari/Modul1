@@ -18,8 +18,10 @@ system.out.print dengan system.out.println
 # Output Latihan 7 Program Switch Case
 ![alt text](https://github.com/FaradilaRahmandasari/Modul1/blob/master/Latihan%207%20Program%20Switch%20Case.PNG)
 # Output Latihan 8 Program Kondisi Ganda
-![alt text]
+![alt text](https://github.com/FaradilaRahmandasari/Modul1/blob/master/Latihan%208%20Program%20Kondisi%20Ganda.PNG)
 # Output Latihan 9 Program Pernyataan For
-![alt text]
-# Output Latihan 10 Program Pernyataan While
-![alt text]
+![alt text](https://github.com/FaradilaRahmandasari/Modul1/blob/master/Latihan%209%20Program%20Pernyataan%20For.PNG)
+# Output Latihan 10 Program Variabel Counter
+![alt text](https://github.com/FaradilaRahmandasari/Modul1/blob/master/Latihan%2010%20Program%20Variabel%20Counter.PNG)
+# Output Latihan 11 Program Pernyataan While
+![alt text](https://github.com/FaradilaRahmandasari/Modul1/blob/master/Latihan%2011%20Program%20Pernyataan%20While.PNG)
